@@ -1,3 +1,8 @@
+// 3. Contar elementos pares:
+// ○ Función contarPares(array) que cuente
+// cuántos números pares hay.
+// ○ Ejemplo: contarPares([3, 8, 2, 10]) →
+
 const numPares =[2, 5, 6, 34, 29, 18, 20, 56, 40];
 
 function contPares (numerosParesArray){
