@@ -1,22 +1,23 @@
 let colores = ["rojo", "verde", "azul", "amarillo", "morado"];
 
-let buscar = String(prompt('Ingrese un color'));
-
-alert('Buscando color ...');
-
 function buscarElemento (encontrarColor){
-    for(d of encontrarColor){
-        if(buscar == d){
-            alert('El color esta en base de datos');
-            return;
+
+    let buscar = prompt('Ingrese un color').toLowerCase();
+
+    alert('Buscando color ...');
+
+    for(let d = 0; d < encontrarColor.length; d++){
+        if(buscar == encontrarColor[d] ){
+            return alert('El color esta en base de datos');
+         
         }
         if(buscar == Number(buscar)){
-            alert('Ingrese un valor correcto');
-            return;
+           return alert('Ingrese un valor correcto');
+            
         }
         else{
-            alert('El color no esta en base de datos');
-            return;
+            return alert('El color no esta en base de datos');
+          
         }
         
     }
