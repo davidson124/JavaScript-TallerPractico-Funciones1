@@ -5,13 +5,22 @@
 
 const numeros = [4, 6, 80, 19, 22, 30, 44, 29, 1, 3];
 
-function NumMa(numerosArray){
-    let numeroMayor = numeros[0];
-    for(let d = 0; d <= numerosArray.length; d++){
-        if(numeroMayor < numerosArray[d] ){
+function NumMa (numerosArray){
+
+    console.log(`Lista de números: ${numerosArray}`)
+
+    let numeroMayor = numerosArray[0];
+
+    for(let d = 1; d < numerosArray.length; d++){
+        if(numerosArray[d] > numeroMayor ){
             numeroMayor = numerosArray[d];
-            console.log(`El número mayor es ${numeroMayor}`)
         }
     }
+setTimeout(()=>{
+    alert(`Entonces, el número mayor es: ${numeroMayor}`)
+},1300)
+    
 }
 NumMa(numeros);
+
+
