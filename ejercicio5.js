@@ -1,27 +1,40 @@
+// 5. BUSCAR ELEMENTO
+// * Función buscarElemento(array, elemento) que devuelva true si el elemento existe.
+// * Ejemplo: buscarElemento(["rojo","azul"], "azul") → true.
+
 let colores = ["rojo", "verde", "azul", "amarillo", "morado"];
 
+
 function buscarElemento (encontrarColor){
-
-    let buscar = prompt('Ingrese un color').toLowerCase();
-
+    console.log('Esta es la lista de colores:',encontrarColor);
+    const buscar = prompt('Ingrese un color');
+    if(buscar === ''){
+        alert('NO INGRESASTE ALGUN VALOR');
+        return;
+    }
+    if(!isNaN(buscar)){
+        alert('NO SE ADMITEN NUMEROS');
+        return;
+    }
     alert('Buscando color ...');
 
+    let esElColor = false;
+
     for(let d = 0; d < encontrarColor.length; d++){
-        if(buscar == encontrarColor[d] ){
-            return alert('El color esta en base de datos');
-         
+        if(encontrarColor[d] === buscar.toLowerCase()){
+            esElColor=true;
+            break;
         }
-        if(buscar == Number(buscar)){
-           return alert('Ingrese un valor correcto');
-            
-        }
-        else{
-            return alert('El color no esta en base de datos');
-          
-        }
-        
     }
-              
+setTimeout(()=>{
+     if(esElColor){
+        
+             console.log('*u* EL COLOR ESTA EN LA BASE DE DATOS *u*');
+    }else{
+             console.logt('-_- EL COLOR NO ESTA EN LA BASE DE DATOS -_-'); 
+    }   
+},1000)
+             
 }
 buscarElemento(colores)
 
