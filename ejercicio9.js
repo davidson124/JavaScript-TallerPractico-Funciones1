@@ -17,18 +17,14 @@ function combinarObjetos(listOne, listTwo){
  listTwo.area = "Store";
  listTwo.proyect="paint";
  listTwo.security="Health and Live";
-
     console.log(listOne, listTwo);
-
     const fusion = {
         ...listOne,
         ...listTwo
     };
     setTimeout(()=>{
         console.log(fusion);
-    },1400);
-    
- 
+    },1400); 
 }
  combinarObjetos(listOne, listTwo)
 
