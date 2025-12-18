@@ -37,7 +37,8 @@ function promedioNotas(estudiante){
             }break;
         } 
     }
-setTimeout(()=>{    if(alumnoEncontrado){
+setTimeout(()=>{   
+     if(alumnoEncontrado){
         let promedio = sumaNotas / cantidadNotas;
         console.log(
             'ALUMNO: '+alumno +'\nPromedio: ' +promedio.toFixed(2)
