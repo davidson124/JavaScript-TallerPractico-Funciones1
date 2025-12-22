@@ -1,0 +1,125 @@
+[33mcommit 6d4c14676a6649517f0b5d0bcce0872e67fd37de[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Sun Dec 21 11:22:18 2025 -0500
+
+    Solución ejercicio 16, uso de ciclo for y condicional if/else
+
+[33mcommit 65c11fc92fa09cca1da30deb473311c207af2501[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Sun Dec 21 08:01:58 2025 -0500
+
+    Solución ejercicio 14, BUBBLE SORT
+
+[33mcommit 09121ecda8d1318ec58757f41927fd5924429e70[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Fri Dec 19 14:10:04 2025 -0500
+
+    Solución ejercicio 13, uso de for anidado y condicional if
+
+[33mcommit 92c871cde406c89f35352854685069581c6c794f[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Thu Dec 18 14:26:14 2025 -0500
+
+    Solución ejercicio |12|, uso ciclo for y condicional if
+
+[33mcommit 04325149bbdb7211c5175ede17dba858b7084e32[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Dec 16 09:25:09 2025 -0500
+
+    Creacion del fichero: ejercicio 12, queda con encabezado para posterior solución
+
+[33mcommit 6d2a1a17abdb2c4416d5ff69a258cae2b3e1a63b[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Dec 16 09:14:25 2025 -0500
+
+    Solución ejercicio 11, CALCULAR AREA Y PERIMETRO DE UN RECTANGULO
+
+[33mcommit 8ca40e200bce1cac38a89749b5d5acb46677cc42[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Dec 16 08:49:59 2025 -0500
+
+    Solución ejercicio 10. Uso for in y setTimeout
+
+[33mcommit 27803885f71f6f16216f320432c55e15eb0c25e0[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Mon Dec 15 14:48:26 2025 -0500
+
+    Solución ejercicio 9, combinar objetos
+
+[33mcommit 516e8c8d75221f962e70f06e3e8e70cacfa8c240[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Mon Dec 15 13:50:26 2025 -0500
+
+    Solución ejercicio 8, agregar propiedad a objeto
+
+[33mcommit 46d760a7b6e2037730717e169c074ca21216d34b[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Mon Dec 15 11:22:28 2025 -0500
+
+    solución ejercicio 7, ciclo for, condicional if
+
+[33mcommit 4e80d62659edab384b175be358d7df21044cec6a[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Mon Dec 15 09:50:54 2025 -0500
+
+    Corrección ejercicio 6, uso ciclo for y condicionales if/else
+
+[33mcommit eb4efe84e580bfce9e3185af9eb5847c91bd1ed2[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Sun Dec 14 21:13:15 2025 -0500
+
+    Corrección ejercicio 5, uso de ciclo for, condicional if y setTimeout
+
+[33mcommit c14ece9bb698b1ef2a75509d8f315185343c5d01[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Sun Dec 14 14:01:52 2025 -0500
+
+    Mejora ejercicio 4, us do-while y set time out
+
+[33mcommit 9e417bb3b0dec005a0d15dcf6d82b658c8419704[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Sun Dec 14 10:58:54 2025 -0500
+
+    Correción jercicio 3 = ciclo for y setTimeout
+
+[33mcommit d94d24c8752e0fb62193fc116fd6042bae4d2dd2[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Sun Dec 14 09:59:13 2025 -0500
+
+    Solución ejercicio 1 = for of y setTimeout. Solución ejercicio 2 = for y setTimeout
+
+[33mcommit 6a439291863699713938095807b2879ba74c01eb[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Nov 18 19:37:42 2025 -0500
+
+    Solución ejercicio 4
+
+[33mcommit d9c84a0be4acd6cfd97daef98e6a4a6ab5516511[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Nov 18 17:29:22 2025 -0500
+
+    solución ejercicio 5, corregir busqueda
+
+[33mcommit afe56507f7883fed83e7f603b7fc7d4846cf67a4[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Nov 18 14:33:16 2025 -0500
+
+    Ejercicio 4 incompleto
+
+[33mcommit e7fff81ceb6fadd36b67c77cd3cb1183abfd1ac9[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Nov 18 14:24:57 2025 -0500
+
+    Solución incompleta ejercicio 3 y preguntas 1 y 2
+
+[33mcommit ec0d6d2e0cdcd79f23b7dd405ec9498a7a29757c[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Nov 18 13:32:07 2025 -0500
+
+    Solución ejercicio 2, en consola se imprimen dos resultados
+
+[33mcommit 8d29a3e18978f464a9d648224ae7eec7bad5ee61[m
+Author: davidson124 <daferdinat@gmail.com>
+Date:   Tue Nov 18 13:06:01 2025 -0500
+
+    Solución primer ejercicio
